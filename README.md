@@ -6,11 +6,11 @@ This project implements a Convolutional Neural Network (CNN) trained on the Fash
 ---
 
 ## Tech Stack
-- Python
-- PyTorch
-- FastAPI
-- Docker
-- Uvicorn
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red?logo=pytorch)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend_Framework-009688?logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI_Server-green)
 
 ---
 
