@@ -1,10 +1,3 @@
-"""
-app.py — FastAPI service for FashionMNIST inference
-Endpoints:
-  GET  /health   → liveness check
-  POST /predict  → classify a 28×28 greyscale image
-"""
-
 import io
 import torch
 import torch.nn as nn
