@@ -91,9 +91,3 @@ localhost:8000 → container:8000
 
 Predicted Class: Sneaker
 Confidence: 0.99
-
-
----
-
-## Author
-Student Project — Deep Learning Deployment
