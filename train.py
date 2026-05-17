@@ -1,5 +1,5 @@
 """
-train.py — Train a CNN on FashionMNIST and save model.pt
+ Train a CNN on FashionMNIST and save model.pt
 Run: python train.py
 """
 
