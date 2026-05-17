@@ -1,6 +1,4 @@
-# cnn-fashionmnist-deployment
-
-# Assignment 1 — FashionMNIST CNN Deployment (FastAPI + Docker)
+# Assignment 7 part 1 — FashionMNIST CNN Deployment (FastAPI + Docker)
 
 ## Overview
 This project implements a Convolutional Neural Network (CNN) trained on the FashionMNIST dataset and deployed using a FastAPI web service. The model classifies grayscale 28×28 images into 10 clothing categories.
@@ -91,3 +89,8 @@ localhost:8000 → container:8000
 
 Predicted Class: Sneaker
 Confidence: 0.99
+
+---
+
+## Author
+Deep Learning Deployment Project
